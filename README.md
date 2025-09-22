@@ -18,7 +18,7 @@ sh run.sh
 If you have any further questions, please feel free to contact Zhipeng Zhou by zzp1994@mail.ustc.edu.cn
 
 ## Citations
-If you find our work interesting or the repo useful, please consider citing [this paper](https://arxiv.org/pdf/2110.14048.pdf):
+If you find our work interesting or the repo useful, please consider citing this paper:
 ```
 @article{zhou2025injecting,
   title={Injecting Imbalance Sensitivity for Multi-Task Learning},
